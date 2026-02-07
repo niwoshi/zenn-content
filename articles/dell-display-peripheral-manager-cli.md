@@ -52,7 +52,8 @@ DDPMの実行ファイルは、デフォルトのインストール先であれ�
 .\CLI.Subagent.exe /get -Display=<パラメータ名>
 ```
 
-**重要`-value=` の末尾に `,forcewithnonotice` を付けないと、Windowsの確認ダイアログが表示されて5分待たされます。Stream Deckから自動化する場合は必須のオプションです。
+**重要**
+`-value=` の末尾に `,forcewithnonotice` を付けないと、Windowsの確認ダイアログが表示されて5分待たされます。Stream Deckから自動化する場合は必須のオプションです。
 
 指定できる入力名はこのあたり。
 
