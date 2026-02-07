@@ -248,7 +248,8 @@ schtasks /run /tn "DDPM_SetBrightness"
 
 DDM 2.xは2025年5月にEOLになっています。旧バージョンのコマンド構文は以下の通りでした。
 
-**DDM 2.x の構文例:```bat
+DDM 2.x の構文例
+```bat
 "C:\Program Files\Dell\Dell Display Manager 2\DDM.exe" /writeactiveinput HDMI1
 "C:\Program Files\Dell\Dell Display Manager 2\DDM.exe" /writebrightnesslevel 50
 ```
